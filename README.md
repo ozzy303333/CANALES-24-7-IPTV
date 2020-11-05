@@ -330,127 +330,127 @@ http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsu
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURA",  CULTURA: TLC SD*
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/46
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO",  ENTRE GALAVISION
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TENIMIENTO",   GALAVISION
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/48
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO",  ENTRE: ANTENA3 SD*
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TENIMIENTO",  : ANTENA3 SD*
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/49
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO",  ENTRE: AZ MUNDO SD*
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TENIMIENTO",  : AZ MUNDO SD*
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/50
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO",  ENTRE: COMEDY CENTRAL HD*
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TENIMIENTO",  : COMEDY CENTRAL HD*
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/51
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO",  ENTRE: DHE SD*
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TENIMIENTO",  : DHE SD*
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/52
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO",  ENTRE: DISTRITO COMEDIA TP MX
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TENIMIENTO",  : DISTRITO COMEDIA TP MX
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/53
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO",  ENTRE: E! SD*
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TENIMIENTO",  : E! SD*
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/54
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO",  ENTRE: EL GOURMET SD*
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TENIMIENTO",  : EL GOURMET SD*
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/55
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO",  ENTRE: ESTRELLATV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TENIMIENTO",  : ESTRELLATV
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/65
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO", (OFFLINE) ENTRE: FASHION ONE SD*
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TENIMIENTO", (OFFLINE) : FASHION ONE SD*
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/56
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO",  ENTRE: FILM & ARTS SD*
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TENIMIENTO",  : FILM & ARTS SD*
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/57
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO",  ENTRE: FOOD NETWORK TP MX
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TENIMIENTO",  : FOOD NETWORK TP MX
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/58
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO",  ENTRE: HOLA !TV SD*
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TENIMIENTO",  : HOLA !TV SD*
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/59
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO",  ENTRE: LIFE TIME SD*
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TENIMIENTO",  : LIFE TIME SD*
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/60
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO",  ENTRE: MAS CHIC SD*
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TENIMIENTO",  : MAS CHIC SD*
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/61
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO",  ENTRE: TL NOVELAS TP MX
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TENIMIENTO",  : TL NOVELAS TP MX
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/62
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO",  ENTRE: UNICABLE TP MX
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TENIMIENTO",  : UNICABLE TP MX
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/63
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO",  ENTRETENIMIENTO: FOX LIFE TP MX
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TENIMIENTO",   FOX LIFE TP MX
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/64
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO",  FOX LIFE
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TENIMIENTO",  FOX LIFE
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/66
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NIÑOS",  NIÑOS: Baby TV*
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NIÑOS",   Baby TV*
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/80
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NIÑOS",  NIÑOS: BIT ME TP MX
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NIÑOS",   BIT ME TP MX
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/89
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NIÑOS",  NIÑOS: Boomerang*
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NIÑOS",   Boomerang*
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/81
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NIÑOS",  NIÑOS: Discovery Kids SD*
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NIÑOS",   Discovery Kids SD*
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/82
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NIÑOS",  NIÑOS: Disney JR SD*
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NIÑOS",   Disney JR SD*
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/84
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NIÑOS",  NIÑOS: Disney SD*
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NIÑOS",   Disney SD*
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/83
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NIÑOS",  NIÑOS: Disney XD SD*
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NIÑOS",   Disney XD SD*
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/85
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NIÑOS",  NIÑOS: Nat Geo Kids SD*
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NIÑOS",   Nat Geo Kids SD*
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/86
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NIÑOS",  NIÑOS: Nick Jr SD*
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NIÑOS",   Nick Jr SD*
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/87
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NIÑOS",  NIÑOS: Nickelodeon SD*
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NIÑOS",   Nickelodeon SD*
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/88
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NIÑOS",  NIÑOS: TOONCAST TP MX
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NIÑOS",   TOONCAST TP MX
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/90
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES",  SERIE: A&E SD*
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES",   A&E SD*
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/67
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES",  SERIE: A3SERIES
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES",   A3SERIES
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/68
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES",  SERIE: AXN SD*
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES",   AXN SD*
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/69
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES",  SERIE: EURO Channel SD*
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES",   EURO Channel SD*
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/70
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES",  SERIE: FOX SD *
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES",   FOX SD *
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/71
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES",  SERIE: FX Movies SD*
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES",   FX Movies SD*
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/72
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES",  SERIE: FX SD*
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES",   FX SD*
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/73
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES",  SERIE: FXM TP MX
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES",   FXM TP MX
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/74
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES",  SERIE: SONY SD*
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES",   SONY SD*
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/76
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES",  SERIE: TNT SERIES*
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES",   TNT SERIES*
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/77
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES",  SERIE: UNIVERSAL TV SD*
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES",   UNIVERSAL TV SD*
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/78
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SERIES",  SERIES: WARNER SD*
