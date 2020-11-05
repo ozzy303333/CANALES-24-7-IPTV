@@ -3,8 +3,6 @@
 #EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
 https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7",  24/7  CAILLOU
-http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/872
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7",  24/7  CORAJE EL PERRO COBARDE
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/873
@@ -17,9 +15,6 @@ http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsu
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7",  24/7  DRAGON BALL 1984
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/876
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7",  24/7  LOS SIMPSON
-http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/877
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7",  24/7  SOUTH PARK
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/878
