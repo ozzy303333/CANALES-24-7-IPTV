@@ -32,3 +32,27 @@ http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/152
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/153
 #EXTINF:-1 group-title="CANALES 24/7" tvg-logo="https://es.peppapig.com/wp-content/uploads/sites/6/2019/03/cropped-peppa_logo.png",PEPA
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/160
+#EXTINF:-1,DRAGON BALL GT
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/142
+#EXTINF:-1,DRAGON BALL Z
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/143
+#EXTINF:-1,FOX COMEDY
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/144
+#EXTINF:-1,DRAGON BALL
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/145
+#EXTINF:-1,DINOSAURIOS
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/146
+#EXTINF:-1,DRAGON BALL SUPER
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/147
+#EXTINF:-1,CUENTOS DE LOS HERMANOS
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/148
+#EXTINF:-1,CORRE CAMINOS
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/149
+#EXTINF:-1,CORAJE EL PERRO COBARDE
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/150
+#EXTINF:-1,BOB ESPOJA
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/152
+#EXTINF:-1,CABALLEROS DEL ZODIACO
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/153
+#EXTINF:-1,PEPA
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/160
