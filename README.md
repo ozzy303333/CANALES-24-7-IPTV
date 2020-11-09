@@ -1,3 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7  CAILLOU" tvg-logo="" group-title="24/7",24/7  LOS SIMPSON TEM 1-5
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/304
+#EXTINF:-1 tvg-id="" tvg-name="24/7  CAILLOU" tvg-logo="" group-title="24/7",24/7  LOS SIMPSON TEM 6-11
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/305
+#EXTINF:-1 tvg-id="" tvg-name="24/7  CAILLOU" tvg-logo="" group-title="24/7",24/7  LOS SIMPSON TEM 18-21
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/309
+#EXTINF:-1 tvg-id="" tvg-name="24/7  CAILLOU" tvg-logo="" group-title="24/7",24/7  LOS SIMPSON TEM 22-26
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/310
 #EXTINF:-1 tvg-id="" tvg-name="24/7  CAILLOU" tvg-logo="" group-title="24/7",24/7  CAILLOU
 http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/872
 #EXTINF:-1 tvg-id="" tvg-name="24/7  CORAJE EL PERRO COBARDE" tvg-logo="" group-title="24/7",24/7  CORAJE EL PERRO COBARDE
