@@ -56,3 +56,29 @@ http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/152
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/153
 #EXTINF:-1,PEPA
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/160
+#EXTINF:-1 group-title="CANALES 24/7" tvg-logo="https://www.cool90s.com/images/Pinky%20and%20the%20Brain.png",PINKY Y CEREBRO
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/120
+#EXTINF:-1 group-title="MÉXICO" tvg-logo="https://static.wixstatic.com/media/0cd32b_91fe205f4689457c92bd222cb787e186~mv2.png",AZTECA CINEMA
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/121
+#EXTINF:-1 group-title="CANALES 24/7" tvg-logo="https://www.leverescaperoom.com/wp-content/uploads/Pinkpanther-logo.svg_.png",LA PANTERA ROSA
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/122
+#EXTINF:-1 group-title="MÉXICO" tvg-logo="https://i.imgur.com/TB2dJz7.png",TELEFORMULA
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/123
+#EXTINF:-1 group-title="CANALES 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/1024px-Naruto_logo.svg.png",NARUTO
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/124
+#EXTINF:-1 group-title="MÉXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Azteca_Trece_2016-3.png",AZTECA UNO
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/125
+#EXTINF:-1 group-title="MÉXICO" tvg-logo="https://cdn131.picsart.com/278369787022211.png",ADN 40
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/126
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LogoNTyLR.svg/1200px-LogoNTyLR.svg.png",RCN
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/127
+#EXTINF:-1 group-title="CANALES 24/7" tvg-logo="https://2.bp.blogspot.com/-q1-No2xCa98/VnivktNNkBI/AAAAAAAAAS0/2mu3jh93u9o/s1600-r/80C.png",MALCOLM
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/128
+#EXTINF:-1 group-title="MUSICALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png",MTV HITS
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/129
+#EXTINF:-1 group-title="CANALES 24/7" tvg-logo="https://pngimg.com/uploads/futurama/futurama_PNG26.png",FUTURAMA
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/130
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://seeklogo.com/images/E/e-entertainment-television-logo-EF3AA17F85-seeklogo.com.png",E ENTERTAIMENT
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/131
+#EXTINF:-1 group-title="CANALES 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1200px-El_Chapul%C3%ADn_Colorado_logo.svg.png",EL CHAPULIN COLORADO
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/133
