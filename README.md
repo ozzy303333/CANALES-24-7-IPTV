@@ -82,3 +82,17 @@ http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/130
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/131
 #EXTINF:-1 group-title="CANALES 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1200px-El_Chapul%C3%ADn_Colorado_logo.svg.png",EL CHAPULIN COLORADO
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/133
+#EXTINF:-1 group-title="CANALES 24/7" tvg-logo="https://i.redd.it/w3v6xn3c74c31.png",X-MEN
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/105
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://seeklogo.com/images/C/caracol-television-2017-logo-E3E35240F8-seeklogo.com.png",CARACOL
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/106
+#EXTINF:-1 group-title="CANALES 24/7" tvg-logo="https://cdn-cms.bnea.io/sites/default/files/games/logo/197476118373750.png",SUPER CAMPEONES
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/107
+#EXTINF:-1 group-title="CANALES 24/7" tvg-logo="https://www.tdogmedia.com/wp-content/uploads/2015/07/South-Park.png",SOUTH PARK
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/108
+#EXTINF:-1 group-title="CANALES 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Smallville_2001_logo.svg/1200px-Smallville_2001_logo.svg.png",SMALLVILLE
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/109
+#EXTINF:-1 group-title="CANALES 24/7" tvg-logo="https://toppng.com/uploads/preview/very-first-anime-you-watched-sailor-moon-logo-vector-11563248372st7ly1w4cr.png",SAILOR MOON
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/110
+#EXTINF:-1 group-title="CANALES 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1024px-International_Pok%C3%A9mon_logo.svg.png",POKEMON
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/111
