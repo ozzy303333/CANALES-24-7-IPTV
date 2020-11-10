@@ -79,8 +79,6 @@ http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/131
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/133
 #EXTINF:-1 group-title="CANALES 24/7" tvg-logo="https://i.redd.it/w3v6xn3c74c31.png",X-MEN
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/105
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://seeklogo.com/images/C/caracol-television-2017-logo-E3E35240F8-seeklogo.com.png",CARACOL
-http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/106
 #EXTINF:-1 group-title="CANALES 24/7" tvg-logo="https://cdn-cms.bnea.io/sites/default/files/games/logo/197476118373750.png",SUPER CAMPEONES
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/107
 #EXTINF:-1 group-title="CANALES 24/7" tvg-logo="https://www.tdogmedia.com/wp-content/uploads/2015/07/South-Park.png",SOUTH PARK
