@@ -69,10 +69,6 @@ http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/124
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/125
 #EXTINF:-1 group-title="MÉXICO" tvg-logo="https://cdn131.picsart.com/278369787022211.png",ADN 40
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/126
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LogoNTyLR.svg/1200px-LogoNTyLR.svg.png",RCN
-http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/127
-#EXTINF:-1 group-title="CANALES 24/7" tvg-logo="https://2.bp.blogspot.com/-q1-No2xCa98/VnivktNNkBI/AAAAAAAAAS0/2mu3jh93u9o/s1600-r/80C.png",MALCOLM
-http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/128
 #EXTINF:-1 group-title="MUSICALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png",MTV HITS
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/129
 #EXTINF:-1 group-title="CANALES 24/7" tvg-logo="https://pngimg.com/uploads/futurama/futurama_PNG26.png",FUTURAMA
