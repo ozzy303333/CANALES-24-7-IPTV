@@ -128,3 +128,7 @@ http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfg
 http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/935
 #EXTINF:-1,24/7 XMEN ANIME
 http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/936
+#EXTINF:-1 group-title="24/7  CANALES" tvg-logo="http://thex.tv:57999/images/8cefbc3522898a7a5e0897732802449e.jpg",Rapidos y Furiosos 24/7
+http://thex.tv:57999/juanlopez/juanlopez/3455
+#EXTINF:-1 group-title="24/7  CANALES" tvg-logo="https://www.michaels.com/static/on/demandware.static/-/Sites-MichaelsUS-Library/default/dw6509e45b/images/logos/mobile/kids-logo-partial-active.svg",Movie City Kids 24/7
+http://thex.tv:57999/juanlopez/juanlopez/3409
