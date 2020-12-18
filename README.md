@@ -1,131 +1,130 @@
-#EXTM3U
 #EXTINF:-1,24/7  CAILLOU
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/872
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/872
 #EXTINF:-1,24/7  CORAJE EL PERRO COBARDE
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/873
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/873
 #EXTINF:-1,24/7  CUENTOS GREEM
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/874
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/874
 #EXTINF:-1,24/7  DINOSAURIOS 1991
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/875
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/875
 #EXTINF:-1,24/7  DRAGON BALL 1984
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/876
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/876
 #EXTINF:-1,24/7  LOS SIMPSON
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/877
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/877
 #EXTINF:-1,24/7  SOUTH PARK
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/878
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/878
 #EXTINF:-1,24/7  THE WALKING DEAD
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/879
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/879
 #EXTINF:-1,24/7 ALF
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/880
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/880
 #EXTINF:-1,24/7 AÃ‘OS MARAVILLOSOS 1988
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/881
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/881
 #EXTINF:-1,24/7 BARNY Y SUS AMIGOS
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/882
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/882
 #EXTINF:-1,24/7 BATMAN 1966 RETRO
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/883
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/883
 #EXTINF:-1,24/7 BOB ESPONJA
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/884
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/884
 #EXTINF:-1,24/7 BREAKING  BAD
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/885
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/885
 #EXTINF:-1,24/7 CABALLEROS DEL ZODIACO
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/886
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/886
 #EXTINF:-1,24/7 CANTINFLAS
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/887
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/887
 #EXTINF:-1,24/7 CASO CERRADO "SEXUALIDAD"
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/888
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/888
 #EXTINF:-1,24/7 CSI: MIAMI
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/889
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/889
 #EXTINF:-1,24/7 Death note
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/890
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/890
 #EXTINF:-1,24/7 DESAFIO SOBRE FUEGO LATIN AMERICA
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/891
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/891
 #EXTINF:-1,24/7 DRAGON  BALL SUPER
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/892
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/892
 #EXTINF:-1,24/7 DRAGON BALL GT 1996
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/893
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/893
 #EXTINF:-1,24/7 DRAGON BALL Z 1989
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/894
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/894
 #EXTINF:-1,24/7 El AvispÃ³n Verde
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/895
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/895
 #EXTINF:-1,24/7 EL CHAPULIN COLORADO
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/896
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/896
 #EXTINF:-1,24/7 EL CHAVO DEL 8
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/897
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/897
 #EXTINF:-1,24/7 EL CHEMA
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/898
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/898
 #EXTINF:-1,24/7 EL COYOTE Y CORRE CAMINOS
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/899
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/899
 #EXTINF:-1,24/7 EL PATON DEL MAL
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/900
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/900
 #EXTINF:-1,24/7 EL SEÃ‘OR DE LOS CIELOS
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/901
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/901
 #EXTINF:-1,24/7 FUTURAMA 1999
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/902
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/902
 #EXTINF:-1,24/7 HAPPY TREE FRIENDS
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/903
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/903
 #EXTINF:-1,24/7 He-Man
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/904
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/904
 #EXTINF:-1,24/7 HÃ‰ROES EN PIJAMAS
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/905
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/905
 #EXTINF:-1,24/7 JUEGO DE TRONOS
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/906
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/906
 #EXTINF:-1,24/7 LA CASA DE PAPEL
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/907
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/907
 #EXTINF:-1,24/7 LA FAMILIA MONSTERS 1964
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/908
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/908
 #EXTINF:-1,24/7 LA HORA PICO
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/909
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/909
 #EXTINF:-1,24/7 LA PANTERA ROSA
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/910
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/910
 #EXTINF:-1,24/7 LA RISA EN VACIONES
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/911
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/911
 #EXTINF:-1,24/7 LA ROSA DE GUADALUPE
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/912
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/912
 #EXTINF:-1,24/7 LAZY TOWN
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/913
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/913
 #EXTINF:-1,24/7 LE TEMES ALA OSCURIDAD
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/914
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/914
 #EXTINF:-1,24/7 LOS LOCOS ADDAMS
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/915
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/915
 #EXTINF:-1,24/7 LUIS MIGUEL LA SERIE 2018
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/916
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/916
 #EXTINF:-1,24/7 Malcolm in the middle 2000
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/917
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/917
 #EXTINF:-1,24/7 Mazinger Z
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/918
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/918
 #EXTINF:-1,24/7 Naruto
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/919
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/919
 #EXTINF:-1,24/7 Peliculas de terror
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/920
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/920
 #EXTINF:-1,24/7 PELICULAS ESTRENOS 2018
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/921
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/921
 #EXTINF:-1,24/7 PEPPA PIG
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/922
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/922
 #EXTINF:-1,24/7 PINKY y CEREBRO
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/923
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/923
 #EXTINF:-1,24/7 PokÃ©mon
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/924
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/924
 #EXTINF:-1,24/7 POWER RANGERS
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/925
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/925
 #EXTINF:-1,24/7 ROBOTECH
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/926
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/926
 #EXTINF:-1,24/7 SAILOR MOON
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/927
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/927
 #EXTINF:-1,24/7 Shark Tank MÃ©xico TEP 1
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/928
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/928
 #EXTINF:-1,24/7 Shark Tank MÃ©xico TEP 2
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/929
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/929
 #EXTINF:-1,24/7 SHERA
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/930
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/930
 #EXTINF:-1,24/7 SMALLVILLE
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/931
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/931
 #EXTINF:-1,24/7 SPIDER-MAN
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/932
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/932
 #EXTINF:-1,24/7 STRANGER THINGS
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/933
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/933
 #EXTINF:-1,24/7 SUPER CAMPEONES
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/934
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/934
 #EXTINF:-1,24/7 THUNDERCAST
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/935
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/935
 #EXTINF:-1,24/7 XMEN ANIME
-http://zufreelist.net:8080/xJh7evPFUZ/cCvj3K4k4I/936
+http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/936
