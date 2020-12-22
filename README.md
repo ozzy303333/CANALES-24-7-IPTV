@@ -12,7 +12,7 @@ http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdv
 #EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/l_InVUka4vQ/maxresdefault.jpg" group-title="Ungrouped", 24/7  LOS SIMPSON
 http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/877
 #EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/Thj6YJ8gLQA/maxresdefault_live.jpg" group-title="Ungrouped", 24/7  SOUTH PARK
-http://zufreelist.net:8080/AKkPfPYjc8/3hxJ58i1Uc/878
+http://zufreelist.net:8080/7KKeKvabSI/kpSl6wBfvl/878
 #EXTINF: -1 tvg-logo="https://images.clarin.com/2019/10/24/the-walking-dead-se-estreno___A9ZAwfJM_1256x620__1.jpg" group-title="Ungrouped", 24/7  THE WALKING DEAD
 http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/879
 #EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91Wj77nlC7L._SY550_.jpg" group-title="Ungrouped", 24/7 ALF
