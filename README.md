@@ -1,6 +1,4 @@
 #EXTM3U 
-#EXTINF:-1 group-title="24-7" tvg-logo="https://only-android.com/img/educational-game/582/caillou-check-up-doctor-apk-on-computer-2.png" tvg-logo-small="https://only-android.com/img/educational-game/582/caillou-check-up-doctor-apk-on-computer-2.png" ,24/7  SUPER CAMPEONES
-https://www.facebook.com/capitan.tsubasa.latino/videos/4595213740551899.mp4
 #EXTINF:-1 group-title="24-7" tvg-logo="https://only-android.com/img/educational-game/582/caillou-check-up-doctor-apk-on-computer-2.png" tvg-logo-small="https://only-android.com/img/educational-game/582/caillou-check-up-doctor-apk-on-computer-2.png" ,24/7  CAILLOU
 http://zufreelist.net:8080/afgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaerga/afgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaerga/872
 #EXTINF:-1 group-title="24-7" tvg-logo="https://i.ytimg.com/vi/LHEtZZysCks/sddefault.jpg?v=5a1ee0dd" ,24/7  CORAJE EL PERRO COBARDE
