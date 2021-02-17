@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="24/7" tvg-logo="https://i.ytimg.com/vi/LHEtZZysCks/sddefault.jpg?v=5a1ee0dd" ,24/7  CAILLOU
+#EXTINF:-1 group-title="24/7" tvg-logo="https://m.media-amazon.com/images/I/816X66jzvyL._AC_UL320_.png" ,24/7  CAILLOU
 http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/3
 #EXTINF:-1 group-title="24/7" tvg-logo="http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/4" ,24/7  CORAJE EL PERRO COBARDE
 http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/4
@@ -83,7 +83,7 @@ http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks
 http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/48
 #EXTINF:-1 group-title="24/7" tvg-logo="https://agendacultural.com.py/wp-content/uploads/2019/10/Los-Locos-Addams-209x300.jpg" ,24/7 LOS LOCOS ADDAMS
 http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/49
-#EXTINF:-1 group-title="24/7" ,24/7 LOS PICA PIEDRAS
+#EXTINF:-1 group-title="24/7" tvg-logo="https://serieslan.com/tb/lpp.jpg" ,24/7 LOS PICA PIEDRAS
 http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/50
 #EXTINF:-1 group-title="24/7" tvg-logo="https://pics.filmaffinity.com/Luis_Miguel_la_serie_Serie_de_TV-501335695-large.jpg" ,24/7 LUIS MIGUEL LA SERIE 2018
 http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/51
