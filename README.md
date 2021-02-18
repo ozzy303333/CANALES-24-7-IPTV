@@ -17,10 +17,14 @@ http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks
 http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/10
 #EXTINF:-1 group-title="24/7" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91Wj77nlC7L._SY550_.jpg" ,24/7 ALF
 http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/11
+#EXTINF:-1 group-title="24/7" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91Wj77nlC7L._SY550_.jpg" ,24/7 ALF
+http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/12
 #EXTINF:-1 group-title="24/7" tvg-logo="https://cdn.shopify.com/s/files/1/2119/1111/products/barney-1343667641.jpg?v=1566654297" ,24/7 BARNY Y SUS AMIGOS
 http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/13
 #EXTINF:-1 group-title="24/7" tvg-logo="https://seriesretro.com/wp-content/uploads/2020/09/eJWKgqICVxgDOOWRNBQ7b6Hh5Xb.jpg" ,24/7 BATMAN 1966 RETRO
 http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/14
+#EXTINF:-1 group-title="24/7" tvg-logo="https://seriesretro.com/wp-content/uploads/2020/09/eJWKgqICVxgDOOWRNBQ7b6Hh5Xb.jpg" ,24/7 BATMAN 1966 RETRO
+http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/15
 #EXTINF:-1 group-title="24/7" tvg-logo="https://serieszeta.com/wp-content/uploads/2019/07/Bob-Esponja-320x245.jpg" ,24/7 BOB ESPONJA
 http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/16
 #EXTINF:-1 group-title="24/7" tvg-logo="https://es.web.img3.acsta.net/pictures/18/04/04/22/52/3191575.jpg" ,24/7 BREAKING  BAD
@@ -29,12 +33,16 @@ http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks
 http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/18
 #EXTINF:-1 group-title="24/7" tvg-logo="https://1.bp.blogspot.com/-zL4gcps2vSg/XcBoPIv3M_I/AAAAAAAAAfE/m171TBB5Gq4Qb4s7bkba4aC4VjD-w5LVQCLcBGAsYHQ/s320/cantinflas.png" ,24/7 CANTINFLAS
 http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/19
+#EXTINF:-1 group-title="24/7" tvg-logo="https://1.bp.blogspot.com/-zL4gcps2vSg/XcBoPIv3M_I/AAAAAAAAAfE/m171TBB5Gq4Qb4s7bkba4aC4VjD-w5LVQCLcBGAsYHQ/s320/cantinflas.png" ,24/7 CANTINFLAS
+http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/20
 #EXTINF:-1 group-title="24/7" tvg-logo="https://r1.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fcapitulos%2F000%2F022%2F615%2Fdisueltos-1.jpg&nuevoancho=690&medio=abc" ,24/7 CSI: MIAMI
 http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/21
 #EXTINF:-1 group-title="24/7" tvg-logo="https://los40mx00.epimg.net/los40/imagenes/2019/09/24/viral/1569349793_252627_1569350250_sumario_normal.jpg" ,24/7 Death note
 http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/22
 #EXTINF:-1 group-title="24/7" tvg-logo="https://static.historyplay.tv/files/dynamicpages_images/forged-in-fire-latin-america-s03-logo-lat-escudo.png" ,24/7 DESAFIO SOBRE FUEGO LATIN AMERICA
 http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/23
+#EXTINF:-1 group-title="24/7" tvg-logo="https://1.bp.blogspot.com/-zL4gcps2vSg/XcBoPIv3M_I/AAAAAAAAAfE/m171TBB5Gq4Qb4s7bkba4aC4VjD-w5LVQCLcBGAsYHQ/s320/cantinflas.png" ,24/7 CANTINFLAS
+http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/24
 #EXTINF:-1 group-title="24/7" tvg-logo="http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/23" ,24/7 DRAGON  BALL SUPER
 http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/25
 #EXTINF:-1 group-title="24/7" tvg-logo="http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/24" ,24/7 DRAGON BALL GT 1996
@@ -71,6 +79,8 @@ http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks
 http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/41
 #EXTINF:-1 group-title="24/7" tvg-logo="https://m.media-amazon.com/images/I/81QT9q6o-9L._SS500_.jpg" ,24/7 LA HORA PICO
 http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/42
+#EXTINF:-1 group-title="24/7" tvg-logo="https://m.media-amazon.com/images/I/81QT9q6o-9L._SS500_.jpg" ,24/7 LA HORA PICO
+http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/43
 #EXTINF:-1 group-title="24/7" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_828257-MLM31236553072_062019-O.jpg" ,24/7 LA PANTERA ROSA
 http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/44
 #EXTINF:-1 group-title="24/7" tvg-logo="https://i.scdn.co/image/ab67706c0000bebbe615d0aede0eda828a5c1f70" ,24/7 LA RISA EN VACIONES
@@ -91,8 +101,12 @@ http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks
 http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/52
 #EXTINF:-1 group-title="24/7" tvg-logo="https://static.turbosquid.com/Preview/2018/02/23__14_24_34/render_1.jpg6349BA5D-6157-45C4-B63E-EDEBE63DCAEBDefault.jpg" ,24/7 Mazinger Z
 http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/53
+#EXTINF:-1 group-title="24/7" tvg-logo="https://static.turbosquid.com/Preview/2018/02/23__14_24_34/render_1.jpg6349BA5D-6157-45C4-B63E-EDEBE63DCAEBDefault.jpg" ,24/7 Mazinger Z
+http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/54
 #EXTINF:-1 group-title="24/7" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/13/12/13/08/50/378271.jpg" ,24/7 Naruto
 http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/55
+#EXTINF:-1 group-title="24/7" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/13/12/13/08/50/378271.jpg" ,24/7 Naruto
+http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/56
 #EXTINF:-1 group-title="24/7" tvg-logo="https://w7.pngwing.com/pngs/858/446/png-transparent-adelaide-logo-brand-outdoor-cinema-font-horror-film-text-logo-adelaide-thumbnail.png" ,24/7 Peliculas de terror
 http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/57
 #EXTINF:-1 group-title="24/7" tvg-logo="https://i.ytimg.com/vi/nzDKjLStm9o/mqdefault.jpg?v=5a6ec76a" ,24/7 PELICULAS ESTRENOS 2018
@@ -126,4 +140,4 @@ http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks
 #EXTINF:-1 group-title="24/7" tvg-logo="https://i.pinimg.com/originals/b0/e2/f0/b0e2f072d1a32c16631f6caffa6e452f.png" ,24/7 THUNDERCAST
 http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/72
 #EXTINF:-1 group-title="24/7" tvg-logo="https://3.bp.blogspot.com/-I_nIpkwttqU/UiJ0TtoFShI/AAAAAAABExk/HC91ekh8MSQ/s1600/X-Men+Anime.jpg" ,24/7 XMEN ANIME
-http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/73
+http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/75
