@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="24/7" tvg-logo="https://m.media-amazon.com/images/I/816X66jzvyL._AC_UL320_.png" ,24/7 mortal  kombat 
+https://archive.org/download/cesser-16-acrimony-1080p/Ver%20Mortal%20Kombat%20%282021%29%20480%20%40JuAnChO1304.mp4 
 #EXTINF:-1 group-title="24/7" tvg-logo="https://m.media-amazon.com/images/I/816X66jzvyL._AC_UL320_.png" ,24/7  CAILLOU
 http://zutv.online:2086/live/aefrvgaergaergaergaergaergawergawergaefrvgaergaergaergaergaADWergawergawergaefrvgaergaergaergaergaergawergawergaefrvgaergaergaergaergaergawergawergaefrvgaergaergaergaergaergawergawergaefrvgaergaergaergaergaergawergawerg/aefrvgaergaergaergaergaergawergawergaefrvgaergaergaergaergaergawergawergaefrvgaergaergaergaergaergawergawergaefrvgaergaergaergaergaergawergawergaefrvgaergaergaergaergaergawergawerg/3.ts
 #EXTINF:-1 group-title="24/7" tvg-logo="http://5.9.30.198:2086/Kdkdisnsnsisnsbsbskwlsosnsnjsksksksnsks/Peroooooojzisisks7s7s7s5s5s5s5s5s6/4" ,24/7  CORAJE EL PERRO COBARDE
