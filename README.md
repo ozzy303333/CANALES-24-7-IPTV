@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 group-title="24/7_LAT" tvg-logo="http://zeroxtv.xyz:2082/images/3cec07e9ba5f5bb252d13f5f431e4bbb.png",JONNY BRAVO (24/7)
 http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/68199
 #EXTINF:-1 group-title="24/7_LAT" tvg-logo="http://zeroxtv.xyz:2082/images/3cec07e9ba5f5bb252d13f5f431e4bbb.png",LOS 3 CHIFLADOS (24/7)
@@ -27,3 +28,4 @@ http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/68211
 #EXTINF:-1 group-title="24/7_LAT" tvg-logo="http://zeroxtv.xyz:2082/images/3cec07e9ba5f5bb252d13f5f431e4bbb.png",TIMON Y PYMBA (24/7)
 http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/68200
 #EXTINF:-1 group-title="24/7_LAT" tvg-logo="http://zeroxtv.xyz:2082/images/3cec07e9ba5f5bb252d13f5f431e4bbb.png",LA CASA DE MICKEY MOUSE (24/7)
+http://shopcl.nl:2082/48bace43ned62s/54madu76seu2/68204
